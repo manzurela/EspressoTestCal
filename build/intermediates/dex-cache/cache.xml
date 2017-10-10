@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_49f916be72e9bbbdceff593e61ef9662f79391b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/debug/junit-4.12_971e81d10e8f0d57f24c147950506de292a8a31b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_678a1623ba953197e45f63fe37adf0851e93de46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.android/build-cache/57f519b32e4268f5424c49c7c720706e6a319908/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_ab6a8bee55b54729631fd026019c716e714fa717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.android/build-cache/31ba81784477d78ad4bf7e17f93fef5a1a2ada8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25a72389e79fbac13f78412a4a6ffacc1cdb0673">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_65ce70e398de6346d9b310bec6f370ac7b14e9e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.android/build-cache/94e386af8eb035723ff592b6d9ef4323844b082b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ece701a759b4dd2005a8467388d5fca5b13e65e">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_a378692e2571bc94afc02c3f658ca0b330f88ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_89e4b5bd1a3b4fa8c3f293ea6066e263f930601e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_c6a72d349f5ca6ec76fd5253a8cd17aa8b240d93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/debug/junit-4.12_971e81d10e8f0d57f24c147950506de292a8a31b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/support-annotations-23.1.1_81394f9c18e6f8e1218573d227296185775f958c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_91330a1ba3f354d1fdb4bc113caf50fb6123cf59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.android/build-cache/6e78942875a018578589d9bca19cb26b852c6f04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_91c77358ac627eb1b42826e7a9c71dacc9ec583e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/debug/hamcrest-core-1.3_4b7bbe4d717f0b9ab3ffd620f3aeec8cfe951a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/debug/hamcrest-core-1.3_4b7bbe4d717f0b9ab3ffd620f3aeec8cfe951a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/debug/jacocoagent_46e5b58b3242fbb22c944cdd5f2028e2a824e95e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/debug/jacocoagent_46e5b58b3242fbb22c944cdd5f2028e2a824e95e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_debef677836e334cef3a07f3b9f44ca77ffce3a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.android/build-cache/973b5536a36bb85b0504d979d94cf76c3242d378/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_29f200f9dde0798bf88729f30173ead40e9c57bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manzurelahi/.android/build-cache/c9de156a117379888eb4fb3dcbf36d2cddb45b66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e4805433aedef15e73a7eedf7e3496eb4363a583">
+        <dex dex="/Users/manzurelahi/AndroidBootCamp/Calc-Espresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_eae20fd56babd941d03fb4c1c9f704beb982a7ef.jar" />
+    </item>
+
+</items>
